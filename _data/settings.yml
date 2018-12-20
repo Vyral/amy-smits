@@ -1,6 +1,6 @@
 audit_header: false
-title: Frisco Real Estate Video Blog with Amy and Kevin Smits
-description: Our mission at The Smits Team is to be your best resource for Frisco real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Smits Team, your professional Frisco Real Estate Agents.
+title: The Resort Real Estate Video Blog with Amy and Kevin Smits
+description: Our mission at The Smits Team is to be your best resource for The Resort real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Smits Team, your professional The Resort Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -22,7 +22,7 @@ client:
     Teamwork is vital in your purchase. Imagine if you use an agent working alone and they are on vacation, sick or otherwise unable to show you property or worse yet, miss an important deadline! Are you willing to risk losing the property of your dreams because your agent isn't available? I wouldn't either. To find out how The Smits Team works together, watch our team video here
   brand: The Smits Team
   brokerage:
-  market: Frisco
+  market: The Resort
   address: 507 Main Street, Box 571<br>Frisco, CO 80443
   phone: 970-333-3029
   phone_type:
@@ -39,15 +39,15 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your Frisco Home Worth?"
+    CTA_title: "What’s Your The Resort Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: http://www.vailsummithomesearch.com/homevalue/value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a Frisco Home?"
-    CTA_text2: "Search the entire MLS for your Frisco home."
+    CTA_title2: "Looking for a The Resort Home?"
+    CTA_text2: "Search the entire MLS for your The Resort home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: http://www.vailsummithomesearch.com/
 
@@ -79,12 +79,12 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'Frisco Real Estate Podcast with Amy and Kevin Smits'
+  title: 'The Resort Real Estate Podcast with Amy and Kevin Smits'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Frisco Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Smits Team - your professional Frisco Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Frisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the The Resort Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Smits Team - your professional The Resort Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in The Resort, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: 'Amy and Kevin Smits'
 
 images:
