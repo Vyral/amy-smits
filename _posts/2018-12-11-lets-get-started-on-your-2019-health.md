@@ -31,4 +31,68 @@ First, I want to wish you all a happy new year and thank you for your support in
 
 As you can see in the video above, there are no shortage of options in the area. Next time you’re in the mountains, you might want to check one of the fantastic rec centers out in Breckenridge or Silverthorne.
 
+<ul>
+<li>Rec Centers</li>
+<ul>
+<li><a href="https://www.breckenridgerecreation.com/locations/breckenridge-recreation-center/recreation-center-admissions-passes-memberships" target="_blank">Breckenridge</a></li>
+<li><a href="https://www.silverthorne.org/town-services/recreation/recreation-center/prices-hours-location" target="_blank">Silverthorn<span id="goog_1227529868"></span><span id="goog_1227529869"></span>e</a></li>
+</ul>
+<li>Yoga Centers</li>
+<ul>
+<li>Frisco</li>
+<ul>
+<li><a href="https://summithotyoga.com/" target="_blank">Summit Hot Yoga</a></li>
+<li><a href="https://elevatedyogacolorado.com/" target="_blank">Elevated Yoga</a></li>
+<li><a href="https://www.summitcountyyogaproject.com/" target="_blank">Summit County Yoga Project</a></li>
+</ul>
+<li>Dillon</li>
+<ul>
+<li><a href="https://www.peakyogastudio.com/" target="_blank">Peak Yoga</a></li>
+</ul>
+<li>Breckenridge</li>
+<ul>
+<li><a href="https://www.metayogastudios.com/" target="_blank">Meta Yoga Studios</a></li>
+</ul>
+</ul>
+<li>Pilates</li>
+<ul>
+<li><a href="http://bodyessentialspilates.com/" target="_blank">Dillon</a></li>
+<li><a href="http://www.trinitywellnessfrisco.com/" target="_blank">Frisco</a></li>
+</ul>
+<li>Studios</li>
+<ul>
+<li>Frisco</li>
+<ul>
+<li><a href="http://www.trinitywellnessfrisco.com/" target="_blank">Trinity Wellness Studio</a></li>
+<li><a href="http://www.studiobsummit.com/" target="_blank">Studio B Dance Center</a></li>
+<li><a href="https://summitcobjj.com/" target="_blank">Summit County Jiu Jitsu</a></li>
+</ul>
+</ul>
+<li>Crossfit Studios</li>
+<ul>
+<li><a href="https://crossfitbreckenridge.com/" target="_blank">Breckenridge</a></li>
+<li><a href="http://www.crossfitlowoxygen.com/" target="_blank">Frisco</a></li>
+</ul>
+<li>Gyms</li>
+<ul>
+<li>Frisco</li>
+<ul>
+<li><a href="https://www.peakonefitness.com/" target="_blank">Peak One Fitness 24/7</a></li>
+<li><a href="https://www.altustrainingcenter.com/" target="_blank">Altus Training Center</a></li>
+</ul>
+<li>Dillon</li>
+<ul>
+<li><a href="http://www.elevationfitnesscolorado.com/gym/index.php" target="_blank">Elevation Fitness</a></li>
+</ul>
+<li>Silverthorne</li>
+<ul>
+<li><a href="https://www.snapfitness.com/us/gyms/silverthorne-co/" target="_blank">Snap Fitness 24/7</a></li>
+</ul>
+</ul>
+<li>Senior Center</li>
+<ul>
+<li><a href="http://www.co.summit.co.us/93/Community-Senior-Center" target="_blank">Frisco</a></li>
+</ul>
+</ul>
+
 In the meantime, if you have any questions about real estate, don't hesitate to reach out to us. We'd love to help.
