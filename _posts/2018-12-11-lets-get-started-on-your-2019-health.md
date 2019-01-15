@@ -22,8 +22,8 @@ blogger_orig_url: https://thesmitsteam.blogspot.com/2018/12/lets-get-started-on-
 The new year is here and I’m sure many of you have made resolutions for getting in better shape. Here are some places in the area where you can get started on accomplishing your health goals this year.
 
 <div class="post-cta">
-Buying a home? <a href="http://www.vailsummithomesearch.com/" target="_blank">Click here to perform a full home search</a><br>
-Selling a home? <a href="http://www.vailsummithomesearch.com/homevalue/value" target="_blank">Click here for a FREE Home Price Evaluation</a><br>
+Buying a home? <a href="https://www.thesmitsteam.com/results/?proptype=CL,FM,CM,MF,VC,VT,SF" target="_blank">Click here to perform a full home search</a><br>
+Selling a home? <a href="https://www.thesmitsteam.com/sell/" target="_blank">Click here for a FREE Home Price Evaluation</a><br>
 Call me at <a href="tel:1-970-418-0183">970-418-0183</a> for a FREE home buying or selling consultation
 </div>
 
