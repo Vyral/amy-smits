@@ -19,7 +19,7 @@ youtube_code: 3fGoedpq9Gg
 
 {% include youtube.html %}
 
-This month, we’re excited to take a look at some great theatre venues around Summit County. Here are three of our favorites.
+<p style="text-align: center;"><em>This month, we’re excited to take a look at some great theatre venues around Summit County. Here are three of our favorites.</em></p>
 
 Each month, we’re introducing you to new and exciting businesses around Summit County.
 
