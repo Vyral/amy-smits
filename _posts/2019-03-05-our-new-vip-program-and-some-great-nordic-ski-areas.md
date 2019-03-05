@@ -19,7 +19,7 @@ youtube_code: JLM4th_HrDQ
 
 {% include youtube.html %}
 
-We’ve got a brand-new VIP program coming this month. Keep reading to find out how you can become a member.
+<p style="text-align: center;"><em>We’ve got a brand-new VIP program coming this month. Keep reading to find out how you can become a member.</em></p>
 
 It’s winter break in the mountains, so we snuck off to our home in Puerto Rico to start rebuilding it after Hurricane Maria last year. In the meantime, there are a few things I wanted to talk to you about.
 
