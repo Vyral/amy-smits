@@ -23,7 +23,7 @@ youtube_code: JLM4th_HrDQ
 
 It’s winter break in the mountains, so we snuck off to our home in Puerto Rico to start rebuilding it after Hurricane Maria last year. In the meantime, there are a few things I wanted to talk to you about.
 
-First off, I just wanted to let you know how appreciative we are of you, our friends and clients. **We are starting a new VIP program this month just for you.** Each month, we’ll give away 10 to 15 different gift cards to some great places in the Frisco area. All you need to do is register here so we make sure we have the correct information. When you win, we’ll send the gift card off to you or you can come pick it up.
+First off, I just wanted to let you know how appreciative we are of you, our friends and clients. **We are starting a new VIP program this month just for you.** Each month, we’ll give away 10 to 15 different gift cards to some great places in the Frisco area. All you need to do is <a href="https://share.hsforms.com/1vHyaCdCSRiuPa3fPPWFavg2gpo6" target="_blank">register here</a> so we make sure we have the correct information. When you win, we’ll send the gift card off to you or you can come pick it up.
 
 {% include pullquote.html %}
 
