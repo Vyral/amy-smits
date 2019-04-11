@@ -19,7 +19,7 @@ youtube_code: O8tivhf0jEE
 
 {% include youtube.html %}
 
-Spring is here, which means exciting things for buyers, sellers, skiers, and foodies in Summit County.
+<p style="text-align: center;"><em>Spring is here, which means exciting things for buyers, sellers, skiers, and foodies in Summit County.</em></p>
 
 Today I have a few quick announcements for all you Summit County residents out there.&nbsp;
 
