@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/1y6B3Ia5vGU'
 
 {% include youtube.html %}
 
-Summer is officially here, and we’re ready to celebrate in style.
+<p style="text-align: center;"><em>Summer is officially here, and we’re ready to celebrate in style.</em></p>
 
 Today I’m on-site at the Frisco Bay Marina to share a couple of quick announcements with you. First, preparations are well underway here to help kick off summer. Right now, they’re dredging around the marina, and they’ve removed all the dirt along the recreation path, which is a great place to bike and hike. Our office is just a couple of blocks away, so you know we’ll be there when the party starts.
 
