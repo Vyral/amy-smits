@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/tFojB7Eg6sk'
 
 {% include youtube.html %}
 
-We’ve got plenty of great inventory available to show you, so if you want to enjoy the summer in Breckenridge, get in touch with us soon.
+<p style="text-align: center;"><em>We’ve got plenty of great inventory available to show you, so if you want to enjoy the summer in Breckenridge, get in touch with us soon.</em></p>
 
 Today I wanted to share a quick message about my trip to see Isak Heartstone, the troll built out of wood and trash here in Breckenridge, and about the state of our market.
 
