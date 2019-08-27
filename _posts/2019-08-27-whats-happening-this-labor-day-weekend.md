@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/21JVN0ef604'
 
 {% include youtube.html %}
 
-This is going to be a fantastic weekend here in the Rocky Mountains. Here are all of the local events you need to know about.
+<p style="text-align: center;"><em>This is going to be a fantastic weekend here in the Rocky Mountains. Here are all of the local events you need to know about.</em></p>
 
 It’s looking like it’s going to be a beautiful Labor Day Weekend here in Frisco and Vail. To get you ready for the weekend, we just wanted to share a few different events happening soon.
 
