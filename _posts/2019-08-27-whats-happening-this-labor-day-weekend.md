@@ -27,6 +27,6 @@ Starting on Friday night, you can head on over to the John Popper and Brothers K
 
 {% include pullquote.html %}
 
-Copper Mountain’s Copper Country music festival is also on Saturday and Sunday. If you’re into jazz, Vail has a five-day jazz festival starting on August 30 and going until September 3. The Vail duck race is also that weekend and the largest rotary club fundraiser of the season.
+Copper Mountain’s Copper Country music festival is also on Saturday and Sunday. If you’re into jazz, Vail has a five-day jazz festival starting on August 30 and going until September 3. The Vail duck race is also that weekend and is the largest rotary club fundraiser of the season.
 
 To get our full calendar of upcoming events, visit it [here](https://www.thesmitsteam.com/event-calendar/){: target="_blank"} on our website. If you have any questions about any of these events or about real estate in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
