@@ -41,4 +41,4 @@ If you’re thinking about buying a home, reach out to us. We can make sure you�
 
 If you have any other questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T9DgaK1ZoeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/T9DgaK1ZoeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
